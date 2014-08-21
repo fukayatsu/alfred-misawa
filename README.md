@@ -1,6 +1,8 @@
 alfred-misawa
 =============
 
+[![](https://cloud.githubusercontent.com/assets/1041857/3991002/25d3458e-28d9-11e4-926d-c9f4f29ad061.gif)](https://cloud.githubusercontent.com/assets/1041857/3991002/25d3458e-28d9-11e4-926d-c9f4f29ad061.gif)
+
 # License
 
 Source code:
